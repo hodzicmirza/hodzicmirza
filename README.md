@@ -29,8 +29,8 @@ const mirza = {
     frontend: ["Angular", "React"],
     devops: {
         containers: ["Docker", "Docker Compose"],
-        networking: ["Cloudflare Tunnels", "Nginx", "Reverse Proxy"],
-        servers: ["Linux (Arch, Ubuntu)", "Bash Scripting", "System Administration"]
+        networking: ["Cloudflare Tunnels", "Nginx", "Reverse Proxy", "Networks"],
+        servers: ["Linux (Kali, Ubuntu)", "Bash Scripting", "System Administration"]
     },
     cybersecurity: ["Network Security", "Penetration Testing Basics", "System Hardening"],
     tools: ["Git", "GitHub", "Postman", "VS Code", "Wireshark"]
