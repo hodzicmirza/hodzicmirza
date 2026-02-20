@@ -10,7 +10,7 @@ I'm a developer with a deep passion for both building applications and understan
 
 🌟 **What excites me?**
 - Building full-stack web applications with **.NET** and **Angular/React**
-- Managing and securing **Linux servers** (my daily driver is Arch, btw 😉)
+- Managing and securing **Linux servers** (my daily driver is Kali, btw 😉)
 - Setting up **Cloudflare Tunnels** and **Docker** containers for deployment
 - Exploring **Cybersecurity** — understanding threats, securing systems, and ethical hacking
 - Automating everything with scripts and DevOps practices
